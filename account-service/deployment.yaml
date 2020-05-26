@@ -46,7 +46,7 @@ spec:
     spec:
       containers:
         - name: account-service
-          image: felipemeriga1/account-service:latest
+          image: jnitstacklynx/account-server:latest
           ports:
             - containerPort: 9092
 
