@@ -46,7 +46,7 @@ spec:
     spec:
       containers:
         - name: feign-service
-          image: felipemeriga1/feign-service:latest
+          image: jnitstacklynx/feign-server:latest
           ports:
             - containerPort: 9091
 
